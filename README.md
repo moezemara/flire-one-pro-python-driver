@@ -331,6 +331,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/flir-one-python/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/flir-one-python/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/flir-one-python/wiki)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/moezemara/flire-one-pro-python-driver/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/moezemara/flire-one-pro-python-driver/discussions)
+- 📖 **Documentation**: [Wiki](https://github.com/moezemara/flire-one-pro-python-driver/wiki)
